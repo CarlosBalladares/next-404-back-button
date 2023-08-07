@@ -1,3 +1,12 @@
+# Description
+
+In the root page `/`
+
+- Expected: click on the link below, 404 appears, go back and this page shows.
+- Actual: link is clicked and 404 appears, go back and 404 remains
+
+---
+
 This is a [Next.js](https://nextjs.org/) template to use when reporting a [bug in the Next.js repository](https://github.com/vercel/next.js/issues) with the `app/` directory.
 
 ## Getting Started
